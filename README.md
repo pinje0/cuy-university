@@ -1,2 +1,1 @@
-# cuy-university
-dea-afrizal-course
+Cuy University course
