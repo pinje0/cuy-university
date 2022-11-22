@@ -1,1 +1,1 @@
-Cuy University course
+Cuy University Course
