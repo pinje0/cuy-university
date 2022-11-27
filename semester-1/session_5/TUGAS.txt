@@ -1,4 +1,0 @@
-TUGAS SESI 5:
-1. Tambahkan role baru sebanyak yang kalian mau
-2. Tampilkan sesuatu hal yang berbeda di setiap dashboard rolenya
-3. Bikin register / menu pendaftaran, jadi hanya bisa user terdaftar yang ada di storage yang bisa login
